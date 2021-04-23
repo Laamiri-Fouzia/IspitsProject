@@ -1,0 +1,28 @@
+.container-fluid{
+  background: url("../images/overlay.png"),url("../images/infer.jpg");
+
+}
+.btn{
+ margin-left: 50px;
+  padding: 8px 60px ;
+}
+.img0{
+  height: 168px;
+  width: 253px;
+  background-repeat: no-repeat;
+}
+.img1{
+  background: url("../images/infermiers.jpg");
+}
+.img2{
+  background: url("../images/infermiers.jpg");
+}
+.img3{
+   background: url("../images/infermiers.jpg");
+ }
+.img4{
+    background: url("../images/infermiers.jpg");
+  }
+.card-block{
+  height: px;
+}
