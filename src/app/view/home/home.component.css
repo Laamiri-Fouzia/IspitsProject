@@ -1,28 +1,36 @@
 .container-fluid{
-  background: url("../images/overlay.png"),url("../images/infer.jpg");
+   background: url("../images/overlay.png"),url("../images/infer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  height: 900px;
 
 }
 .btn{
- margin-left: 50px;
-  padding: 8px 60px ;
+   margin-bottom:10px;
+   margin-left: 50px;
+   padding: 8px 60px ;
 }
 .img0{
-  height: 168px;
-  width: 253px;
-  background-repeat: no-repeat;
+   height: 168px;
+   width: 305.25px;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 .img1{
-  background: url("../images/infermiers.jpg");
+   background: url("../images/etudiants.jpg");
 }
 .img2{
-  background: url("../images/infermiers.jpg");
+   background: url("../images/prof.jpg");
 }
 .img3{
-   background: url("../images/infermiers.jpg");
+   background: url("../images/admin.jpg");
  }
 .img4{
-    background: url("../images/infermiers.jpg");
-  }
-.card-block{
-  height: px;
+   background: url("../images/OPTION.jpg");
 }
+.img5{
+   background: url("../images/module.jpg");
+}
+
+
