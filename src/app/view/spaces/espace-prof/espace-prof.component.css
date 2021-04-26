@@ -1,0 +1,27 @@
+.container-fluid{
+  background: url("../../images/overlay.png"),url("../../images/infer.jpg");
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.img0{
+  height: 91px;
+  width: 258px;
+  background-repeat: no-repeat;
+  background-attachment: local;
+}
+.img1{
+  background: url("../../images/autre (2).jfif");
+}
+.img2{
+  background: url("../../images/infermiers.jpg");
+}
+.img3{
+  background: url("../../images/infermiers.jpg");
+}
+.card-block{
+  height: 2px;
+}
+.row{
+ margin:6px;
+}
